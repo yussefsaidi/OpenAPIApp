@@ -1,7 +1,8 @@
-package com.yussef.openapiapp
+package com.yussef.openapiapp.ui.auth
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.yussef.openapiapp.R
 
 class AuthActivity : AppCompatActivity() {
 
